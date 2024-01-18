@@ -11,18 +11,17 @@ Utilizing the command line to generate parts of your project can be extremely he
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [ContactMe](#contactme)
 
 ## Installation
 
 Just clone the git repository into your repo of your current project, ensure that you have all the dependencies installed.
+[installation video](./assets/videos/installation.webm)
 
 ## Usage
-
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
+Npm install and run node script.mjs, answer prompts, it generates a logo based on your selection/response.
+[screenshot](./assets/images/Screenshot%202024-01-18%20135221.png)
+[usage video](./assets/videos/usage.webm)
 
 ## License
 
@@ -35,3 +34,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## ContactMe
+
+Github:(https://github.com/somphangchanleuxay)
+Email:(Somphang.Chanleuxay@gmail.com)
